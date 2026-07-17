@@ -1,4 +1,4 @@
-## Hi there 👋
+## Seja bem-vindo, me chamo Daniel, atualmente estudo Engenharia de Computação na FURG e criei esse perfil para publicar meus projetos na área
 
 <!--
 **Du4rtw/Du4rtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
