@@ -1,6 +1,6 @@
 ## Olá, me chamo Daniel! 👋
 
-Sou estudante de Engenharia de Computação na FURG. Utilizo este perfil para compartilhar meus projetos acadêmicos, códigos autorais e documentar meu aprendizado prático em desenvolvimento de software e algoritmos.
+Sou estudante de Engenharia de Computação na FURG. Utilizo este perfil para compartilhar meus projetos acadêmicos, códigos autorais e documentar meu aprendizado prático na engenharia e desenvolvimento de software.
 
 <!--
 **Du4rtw/Du4rtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
