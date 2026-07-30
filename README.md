@@ -1,7 +1,7 @@
 # ⚙️💻 Daniel Duarte Wiesel
 
 🎓 Estudante de Engenharia de Computação na FURG (Rio Grande, RS)\
-🌱 Comecei na área de tecnologia cursando Engenharia de Software (Unipampa), migrando posteriormente para Engenharia de Computação (FURG), onde sigo até hoje.\
+🌱 Comecei na área de tecnologia cursando Engenharia de Software (Unipampa), migrando posteriormente para Engenharia de Computação (FURG), onde estudo atualmente.\
 📂 Uso este perfil para compartilhar projetos acadêmicos, códigos autorais e documentar meu aprendizado prático na área e desenvolvimento de software.
 
 ## 📫 Contato
