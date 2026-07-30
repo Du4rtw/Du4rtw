@@ -1,11 +1,12 @@
 # ⚙️💻 Daniel Duarte Wiesel
 
-🎓 Estudante de Engenharia de Computação na FURG (Rio Grande, RS) 
-🌱 Comecei na área de tecnologia cursando Engenharia de Software (Unipampa), migrando posteriormente para Engenharia de Computação (FURG), onde sigo até hoje
+🎓 Estudante de Engenharia de Computação na FURG (Rio Grande, RS)\
+🌱 Comecei na área de tecnologia cursando Engenharia de Software (Unipampa), migrando posteriormente para Engenharia de Computação (FURG), onde sigo até hoje.\
 📂 Uso este perfil para compartilhar projetos acadêmicos, códigos autorais e documentar meu aprendizado prático na área e desenvolvimento de software.
 
 ## 📫 Contato
-[E-mail](mailto:danield_wiesel@outlook.com) • [LinkedIn](linkedin.com/in/daniel-duarte-wiesel)
+[E-mail](mailto:danield_wiesel@outlook.com)\
+[LinkedIn](linkedin.com/in/daniel-duarte-wiesel)
 
 <!--
 **Du4rtw/Du4rtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
