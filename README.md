@@ -5,8 +5,7 @@
 📂 Uso este perfil para compartilhar projetos acadêmicos, códigos autorais e documentar meu aprendizado prático na área e desenvolvimento de software.
 
 ## 📫 Contato
-[E-mail](mailto:danield_wiesel@outlook.com)
-[LinkedIn](linkedin.com/in/daniel-duarte-wiesel)
+[E-mail](mailto:danield_wiesel@outlook.com) • [LinkedIn](linkedin.com/in/daniel-duarte-wiesel)
 
 <!--
 **Du4rtw/Du4rtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
