@@ -1,6 +1,6 @@
-## Olá, me chamo Daniel! 👋
+## ⚙️💻 Daniel Duarte Wiesel
 
-Sou estudante de Engenharia de Computação na FURG. Utilizo este perfil para compartilhar meus projetos acadêmicos, códigos autorais e documentar meu aprendizado prático na engenharia e desenvolvimento de software.
+💬 Natural do Rio Grande do Sul, comecei minha experiência na área da tecnologia pelo curso de Engenharia de Software na Unipampa, onde estudei por 1 ano até me transferir para o bacharelado em Engenharia de Computação na FURG da cidade de Rio Grande, que permaneco até hoje. Utilizo este perfil para compartilhar meus projetos acadêmicos, códigos autorais e documentar meu aprendizado prático na engenharia e desenvolvimento de software.
 
 <!--
 **Du4rtw/Du4rtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
