@@ -1,11 +1,11 @@
 # ⚙️💻 Daniel Duarte Wiesel
 
-🎓 Estudante de Engenharia de Computação na FURG (Rio Grande, RS)\
-🌱 Comecei na área de tecnologia cursando Engenharia de Software (Unipampa), migrando posteriormente para Engenharia de Computação (FURG), onde estudo atualmente.\
-📂 Uso este perfil para compartilhar projetos acadêmicos, códigos autorais e documentar meu aprendizado prático na área e desenvolvimento de software.
+🎓 Computer Engineering student at FURG (Rio Grande, RS)\
+🌱 I started out in the tech sector studying Software Engineering (Unipampa), before switching to Computer Engineering (FURG), where I am currently studying.\
+📂 I use this profile to share academic projects, my own code and to document my practical learning in the field and in software development.
 
-## 📫 Contato
-[E-mail](mailto:danield_wiesel@outlook.com)\
+## 📫 Contact
+[Email](mailto:danield_wiesel@outlook.com)\
 [LinkedIn](linkedin.com/in/daniel-duarte-wiesel)
 
 <!--
